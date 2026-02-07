@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-04062020-055285";"";
+"REFERENCE";"901362206";"";
+"TraceParts.PartTitle";"C-Grid III";"";
+"TraceParts.InstanceId";"90-04062020-0552852N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"C-Grid III Header, Single Row, Right-Angle, Shrouded, 6 Circuits, 0.38µm  Gold (Au) Selective Plating";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.6";"";
