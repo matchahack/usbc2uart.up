@@ -21,3 +21,5 @@ In [`ENCLOSURE`](./ENCLOSURE), the freeCAD source files that enable us to genera
 ![initial](./images/3_stl_model_initial.png)
 
 ![final](./images/4_stl_model_final.png)
+
+![packaged](./images/5_packaged.jpg )
