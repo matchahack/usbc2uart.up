@@ -10,6 +10,9 @@ In [`TOP-V2`](./TOP-V2), the KiCad files for the project schematic and layout ar
 
 ![schematic](./images/0_schematic.png)
 
+> [!NOTE]
+> The footprint paths will need to be changed for correct imports
+
 ![layout](./images/1_layout.png)
 
 Also the footprints and revelent 3D models needed to generate `.step` files for freeCAD housing design...
@@ -25,3 +28,4 @@ In [`ENCLOSURE`](./ENCLOSURE), the freeCAD source files that enable us to genera
 ![final](./images/4_stl_model_final.png)
 
 ![packaged](./images/5_packaged.jpg )
+
